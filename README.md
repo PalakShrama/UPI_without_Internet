@@ -399,7 +399,20 @@ For a college / portfolio project: name the concept honestly as **"mesh-routed d
 **Tests fail intermittently** — The concurrency test is timing-sensitive. If it ever flakes, run it 3x; if it consistently fails on your hardware, file the actual failure output.
 
 ---
+#👩‍💻 Author
 
+Palak Shrama  
+Final Year BTech, Computer Engineering
+Smt. Kashibai Navale College of Engineering, Pune
+---
+
+## 🎯 Why This Works
+- **[Clear project description](ca://s?q=How_to_write_project_description_for_resume)** → recruiters instantly know what it does.  
+- **[Setup instructions](ca://s?q=Best_way_to_write_setup_instructions_in_README)** → anyone can run it quickly.  
+- **[Screenshots section](ca://s?q=How_to_add_screenshots_in_README)** → makes your repo visually appealing.  
+- **[Future scope](ca://s?q=How_to_write_future_scope_in_project)** → shows forward‑thinking mindset.  
+
+---
 ## License
 
 Demo code, no license. Use it however you want for learning.
